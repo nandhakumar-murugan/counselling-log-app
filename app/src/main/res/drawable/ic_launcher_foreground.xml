@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Overlay overlapping conversation bubbles forming a heart silhouette (Counseling Concept) -->
+    <group
+        android:translateX="14"
+        android:translateY="14">
+        <!-- Chat Bubble Left (Calm dark teal) -->
+        <path
+            android:fillColor="#004D40"
+            android:pathData="M 40 10 L 25 10 C 13.9 10 5 18.9 5 30 C 5 41.1 13.9 50 25 50 L 25 58 L 35 50 L 40 50 C 51.1 50 60 41.1 60 30 C 60 18.9 51.1 10 40 10 Z" />
+        <!-- Chat Bubble Right (Overlapping soft light mint-teal) -->
+        <path
+            android:fillColor="#80CBC4"
+            android:pathData="M 55 25 L 50 25 C 47.5 25 45.2 25.8 43.3 27.2 C 43.1 28.1 43 29.1 43 30 C 43 38.3 36.3 45 28 45 C 27.1 45 26.1 44.9 25.2 44.7 C 23.8 46.6 23 48.9 23 51.5 C 23 60.1 29.9 67 38.5 67 L 46.2 67 L 54 73 L 54 67 L 55 67 C 63.6 67 70.5 60.1 70.5 51.5 C 70.5 42.9 63.6 36 55 36 M 32.5 24 C 30.5 21 26.5 21 24.5 23 C 22.5 25 22.5 28.5 24.5 30.5 L 32.5 38 L 40.5 30.5 C 42.5 28.5 42.5 25 40.5 23 C 38.5 21 34.5 21 32.5 24 Z" />
+    </group>
+</vector>

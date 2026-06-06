@@ -1,0 +1,6 @@
+{
+  "name": "Counselling Log",
+  "description": "Completely offline counselling intake, monitoring, and master-sheet sharing application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
